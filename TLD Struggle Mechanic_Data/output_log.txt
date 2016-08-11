@@ -16,13 +16,17 @@ Platform assembly: E:\Coding\Unity\The Long Dark Struggle Mechanic\TLD Struggle 
 Loading E:\Coding\Unity\The Long Dark Struggle Mechanic\TLD Struggle Mechanic\TLD Struggle Mechanic_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: E:\Coding\Unity\The Long Dark Struggle Mechanic\TLD Struggle Mechanic\TLD Struggle Mechanic_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading E:\Coding\Unity\The Long Dark Struggle Mechanic\TLD Struggle Mechanic\TLD Struggle Mechanic_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.098 seconds
+- Completed reload, in  0.037 seconds
 Platform assembly: E:\Coding\Unity\The Long Dark Struggle Mechanic\TLD Struggle Mechanic\TLD Struggle Mechanic_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Coding\Unity\The Long Dark Struggle Mechanic\TLD Struggle Mechanic\TLD Struggle Mechanic_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.528577 ms
+UnloadTime: 0.437412 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 296c -> priority: 1 
+  Thread -> id: 240c -> priority: 1 
+minSpeed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

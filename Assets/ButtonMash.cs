@@ -20,8 +20,9 @@ public class ButtonMash : MonoBehaviour {
     private float kickPushPostedTime;
 
     public float minFrequency;
-    public float minTime;
+    public float maxTimeInterval;
     public float minConstFrequencyLength;
+    public float constSpeedMaxTimeInterval;
     public int minRhythmCount;
     public float randMinPresses;
     public float randRollValue;
@@ -108,7 +109,7 @@ public class ButtonMash : MonoBehaviour {
         {
             currentRun = buttonPresses - lastRunStop;
 
-            if (totalTime < 1.0f)
+            if (totalTime < maxTimeInterval)
             {
                 if (currentRun >= minFrequency && !unlockKickPush)
                 {
@@ -127,7 +128,7 @@ public class ButtonMash : MonoBehaviour {
 
         if (modeChosen == "constSpeed")
         {
-            if (deltaTime < minTime)
+            if (deltaTime < constSpeedMaxTimeInterval)
             {
                 speedDeltas.Add(deltaTime);
                 if (speedDeltas.Count > minConstFrequencyLength && !unlockKickPush)
