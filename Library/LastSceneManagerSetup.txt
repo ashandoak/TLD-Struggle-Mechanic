@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TLD-Struggle.unity
+  isLoaded: 1
+  isActive: 1

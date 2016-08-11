@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLD Struggle Mechanic.CSharp.Plugins", "TLD Struggle Mechanic.CSharp.Plugins.csproj", "{A0FBFEB4-372D-7725-7EF3-F9048E43AF06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLD Struggle Mechanic.CSharp", "TLD Struggle Mechanic.CSharp.csproj", "{3DFA68C6-A17F-DED3-86D2-EAF40F078172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLD Struggle Mechanic.CSharp.Editor", "TLD Struggle Mechanic.CSharp.Editor.csproj", "{EEB02B53-40C5-DE21-9931-53B507FE8E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FBFEB4-372D-7725-7EF3-F9048E43AF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FBFEB4-372D-7725-7EF3-F9048E43AF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FBFEB4-372D-7725-7EF3-F9048E43AF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FBFEB4-372D-7725-7EF3-F9048E43AF06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFA68C6-A17F-DED3-86D2-EAF40F078172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFA68C6-A17F-DED3-86D2-EAF40F078172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFA68C6-A17F-DED3-86D2-EAF40F078172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFA68C6-A17F-DED3-86D2-EAF40F078172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB02B53-40C5-DE21-9931-53B507FE8E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB02B53-40C5-DE21-9931-53B507FE8E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB02B53-40C5-DE21-9931-53B507FE8E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB02B53-40C5-DE21-9931-53B507FE8E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
